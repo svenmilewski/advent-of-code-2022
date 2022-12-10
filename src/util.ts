@@ -6,4 +6,4 @@ export const getFromMap = <K, V>(map: Map<K, V>, index: K) => {
   return value;
 };
 
-export const isNumber = (number: string) => !isNaN(parseInt(number))
+export const isNumber = (number: string) => !isNaN(parseInt(number));

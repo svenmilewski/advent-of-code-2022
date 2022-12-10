@@ -1,0 +1,7 @@
+$ cd DIR_1
+$ cd DIR 1_1
+$ cd ..
+$ cd DIR 1_2
+$ cd ..
+$ cd ..
+$ cd DIR_2
